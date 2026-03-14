@@ -6,7 +6,7 @@
 本倉庫包含完整的原始碼與詳細的設計文件，展示了從邏輯架構到介面實作的開發過程：
 
 *  **[展示影片 (YouTube)](https://youtu.be/mlsk8V5BQQ4)**
-*  **[核心程式碼 (Java)](learningapp/app/src/main/java/)** > *註：可至此目錄查看 Activity 間的 Intent 傳遞與進度控制邏輯。*
+*  **[核心程式碼 (Java)](app/src/main/java/com/example/learningapp/)** > *註：可至此目錄查看 Activity 間的 Intent 傳遞與進度控制邏輯。*
 *  **[專案實作報告 (PDF)](Project_Report_Learning_List_App.pdf)**
     > *包含詳細的情境腳本構思、流程圖及開發心得。*
 
